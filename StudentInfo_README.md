@@ -3,13 +3,13 @@
 
 *TODO*: Please edit the following information in your assignment
 
-* Name:
-* GitHub Username:
-* Undergraduate or Graduate Student:
-* How many hours did it take you to complete this assignment?
-* Did you collaborate or share ideas with any other students/TAs/Professors?
-* Did you use any external resources?
-* (Optional) What was the most interesting part of the assignment? How would you improve this assignment?
+* Name:BoyangZuo
+* GitHub Username:IanZuo
+* Undergraduate or Graduate Student:Graduate
+* How many hours did it take you to complete this assignment?40hours
+* Did you collaborate or share ideas with any other students/TAs/Professors? nope
+* Did you use any external resources?W3school c++
+* (Optional) What was the most interesting part of the assignment? How would you improve this assignment?Is to upgrade the engine and the game
 
 # Implementation Logistics
 
